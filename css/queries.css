@@ -39,6 +39,9 @@ CSS Queries
         float: center;
         padding: 5px 5px;
     }
+    .small-featured-sketch {
+        background-size: auto 100%;
+    }
 }
 @media only screen and (max-width:1200px) {
     nav { border-bottom: 20px; }
