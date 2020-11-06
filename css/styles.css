@@ -262,14 +262,6 @@ a { color: #282f35; -webkit-transition: all .25s ease; -moz-transition: all .25s
 a:hover { color: #7e0909; text-decoration: underline; }
 p { text-align: center; font-size: 14px; color: #848789; font-weight: 300; word-spacing: 2px; line-height: 1.8em; margin-top: 25px; }
 p.text-intro { font-size: 18px; }
-.hero1 {
-	background: url(../ChilliImg/Chilli-hero_cropped.jpg) no-repeat top center #f5f6f6;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	height: 685px;
-}
 .bottle-hero {
 	background: url(../ChilliImg/bottle_hero_cropped.jpg) no-repeat top center #f5f6f6;
 	-webkit-background-size: cover;
